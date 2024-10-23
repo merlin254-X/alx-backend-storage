@@ -1,0 +1,2 @@
+// MongoDb shell script to create or switch to my database 'my_db'
+use my_db
